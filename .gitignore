@@ -1,0 +1,7 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+yoka-476709-054d0f209416.json
+
+/src/generated/prisma
